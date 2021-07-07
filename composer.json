@@ -1,0 +1,12 @@
+{
+    "name": "giorgi/lab3-maqadze",
+    "authors": [
+        {
+            "name": "giorgi",
+            "email": "maqadze.giorgi@gtu.ge"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.4"
+    }
+}
